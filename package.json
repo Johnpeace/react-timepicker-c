@@ -59,7 +59,10 @@
     "time-select",
     "react-select",
     "react-time-picker",
-    "react-input"
+    "react-input",
+    "time",
+    "time picker",
+    "time-picker"
   ],
   "files": [
     "dist"
